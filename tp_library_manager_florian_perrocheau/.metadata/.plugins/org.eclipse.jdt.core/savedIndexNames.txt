@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\Florian\Desktop\Cours ENSTA\2A\IN205\TD\TD3\libraryManager\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2163568607.index
